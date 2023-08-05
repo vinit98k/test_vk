@@ -1,0 +1,56 @@
+PROJECT DETAILS
+Project 1: Predicting Net Health Insurance Claims Using Machine Learning
+Domain  Insurance
+March 2021 - February 2022
+Description:
+
+In this project, a machine learning model was developed to predict the net health insurance claim amount for individual policyholders. The model utilized historical health insurance data, including policyholder demographics, medical records, and other relevant features. Through data preprocessing, exploratory data analysis, and feature selection, the model learned patterns and relationships within the data to make accurate predictions on unseen or future policyholder records.
+
+The developed model provides several business benefits for health insurance companies, including enhanced claims management, risk assessment, fraud detection, pricing and underwriting strategies, and resource allocation. By accurately predicting claim amounts, insurance companies can optimize their claim management processes, allocate resources effectively, and ensure the financial stability of their health insurance offerings.
+
+Project 2: Text classification with transfer learning
+Domain: Text Classification
+May 2022 - present
+Description
+
+
+Text classification with transfer learning refers to the process of applying the knowledge learned from one problem to a related problem in the field of natural language processing. Transfer learning allows the use of pre-trained models, such as large language models like BERT, GPT-3, or RoBERTa, to tackle text classification tasks with high accuracy and efficiency.
+
+
+
+
+
+
+>> Aug 2020 joining
+>> Upto January 2021 training (6 Months)
+   to get 1st project we did 2 POC which take 4 months on average
+>> Project-1 POC takes 2 months
+>> From May(2021) the project started till January (2022) 
+   for 2nd project, we did 2 POC
+>> Project -2 POC takes around 5 months
+>> next project started from June(2022) till present
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
